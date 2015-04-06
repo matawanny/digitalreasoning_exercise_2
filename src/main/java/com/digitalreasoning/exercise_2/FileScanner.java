@@ -43,7 +43,6 @@ public class FileScanner {
 	public FileScanner(String fileName) {
 		super();
 		this.fileName = fileName;
-		this.entityName = entityName;
 	}
 	
 
